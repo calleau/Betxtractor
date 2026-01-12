@@ -1,0 +1,42 @@
+{
+	"manifest_version": 2,
+	"name": "Betxtractor",
+	"version": "3.1.3",
+	"description": "Extracteur de cotes multi-sites",
+	"permissions": [
+		"activeTab",
+		"https://*.parionssport.fdj.fr/*",
+		"https://*.betclic.fr/*",
+		"https://*.pmu.fr/*",
+		"https://*.unibet.fr/*"
+	],
+	"content_scripts": [
+		{
+			"matches": [
+				"https://*.parionssport.fdj.fr/*",
+				"https://*.betclic.fr/*",
+				"https://*.pmu.fr/*",
+				"https://*.unibet.fr/*"
+			],
+			"js": [
+				"adapters/siteDef.js",
+				"adapters/baseSiteAdapter.js",
+				"adapters/parisSportAdapter.js",
+				"adapters/betclicAdapter.js",
+				"adapters/pmuAdapter.js",
+				"adapters/unibetAdapter.js",
+				"adapters/siteAdapter.js",
+				"content.js"
+			]
+		}
+	],
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	"browser_action": {
+		"default_popup": "popup.html",
+		"default_icon": "icon.png"
+	}
+}

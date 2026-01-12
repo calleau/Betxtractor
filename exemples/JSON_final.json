@@ -1,0 +1,135 @@
+{
+	"Juventus Turin vs US Cremonese - 2026-01-12 22:30 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-12T22:30:00",
+		"opponents": [
+			"Juventus Turin",
+			"US Cremonese"
+		],
+		"markets": {
+			"Vainqueur": {
+				"Juventus Turin": {
+					"PSEL": 5.1,
+					"Betclic": 5.3
+				},
+				"Nul:": {
+					"PSEL": 4.2,
+					"Betclic": 5.3
+				},
+				"US Cremonese": {
+					"PSEL": 11,
+					"Betclic": 5.3
+				}
+			}
+		}
+	},
+	"Paris SG vs Paris FC - 2026-01-12 22:30 - Coupe de France FFF": {
+		"competition": "Coupe de France FFF",
+		"dateTime": "2026-01-12T22:30:00",
+		"opponents": [
+			"Paris SG",
+			"Paris FC"
+		],
+		"markets": {
+			"Vainqueur": {
+				"Paris SG": {
+					"PSEL": 1.55,
+					"Betclic": 5.3
+				},
+				"Nul:": {
+					"PSEL": 4.2,
+					"Betclic": 5.3
+				},
+				"Paris FC": {
+					"PSEL": 13.5,
+					"Betclic": 5.3
+				}
+			}
+		}
+	},
+	"Liverpool vs Barnsley - 2026-01-12 22:30 - FA Cup": {
+		"competition": "FA Cup",
+		"dateTime": "2026-01-12T22:30:00",
+		"opponents": [
+			"Liverpool",
+			"Barnsley"
+		],
+		"markets": {
+			"Vainqueur": {
+				"Liverpool": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				},
+				"Nul:": {
+					"PSEL": 4.2,
+					"Betclic": 5.3
+				},
+				"Barnsley": {
+					"PSEL": 15.5,
+					"Betclic": 5.3
+				}
+			}
+		}
+	},
+	"A.Tabilo vs U.Carabelli - 2026-01-12 22:30 - Auckland H": {
+		"competition": "Auckland H",
+		"dateTime": "2026-01-12T22:30:00",
+		"opponents": [
+			"A.Tabilo",
+			"U.Carabelli"
+		],
+		"markets": {
+			"Vainqueur": {
+				"A.Tabilo": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				},
+				"U.Carabelli": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				}
+			}
+		}
+	},
+	"P.Marinkov vs J.Mccabe - 2026-01-12 23:00 - Op.Australie H": {
+		"competition": "Op.Australie H",
+		"dateTime": "2026-01-12T23:00:00",
+		"opponents": [
+			"P.Marinkov",
+			"J.Mccabe"
+		],
+		"markets": {
+			"Vainqueur": {
+				"P.Marinkov": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				},
+				"J.Mccabe": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				}
+			}
+		}
+	},
+	"A.Guillen Meza vs T.Seyboth Wild - 2026-01-12 23:00 - Op.Australie H": {
+		"competition": "Op.Australie H",
+		"dateTime": "2026-01-12T23:00:00",
+		"opponents": [
+			"A.Guillen Meza",
+			"T.Seyboth Wild"
+		],
+		"markets": {
+			"Vainqueur": {
+				"A.Guillen Meza": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				},
+				"T.Seyboth Wild": {
+					"PSEL": 5.3,
+					"Betclic": 5.3
+				}
+			}
+		}
+	}
+}
+
