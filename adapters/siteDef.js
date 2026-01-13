@@ -38,6 +38,16 @@ const SITE_DEFINITIONS = {
       odds: '.odds-btn',
       oddsContainer: '.odds-container'
     }
+  },
+  piwixchange: {
+    name: 'PIWIXchange',
+    domain: 'piwi247.com',
+    selectors: {
+      events: '[class*="market"]',
+      eventName: '[class*="event-title"]',
+      odds: '[class*="back"], [class*="lay"]',
+      oddsContainer: '[class*="odds"]'
+    }
   }
 };
 

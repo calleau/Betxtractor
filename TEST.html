@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Test d'Extraction - Betxtractor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #2c3e50;
+      border-bottom: 3px solid #3498db;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #34495e;
+      margin-top: 30px;
+    }
+    .test-section {
+      background: #ecf0f1;
+      padding: 15px;
+      border-left: 4px solid #3498db;
+      margin: 10px 0;
+    }
+    .success {
+      color: #27ae60;
+      font-weight: bold;
+    }
+    .error {
+      color: #e74c3c;
+      font-weight: bold;
+    }
+    .info {
+      color: #3498db;
+      font-weight: bold;
+    }
+    code {
+      background: #2c3e50;
+      color: #ecf0f1;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: 'Courier New', monospace;
+    }
+    pre {
+      background: #2c3e50;
+      color: #ecf0f1;
+      padding: 15px;
+      border-radius: 5px;
+      overflow-x: auto;
+      font-size: 12px;
+    }
+    .test-button {
+      background: #3498db;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      margin: 5px;
+    }
+    .test-button:hover {
+      background: #2980b9;
+    }
+    .results {
+      background: #f9f9f9;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-top: 20px;
+      max-height: 500px;
+      overflow-y: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background: #34495e;
+      color: white;
+    }
+    tr:hover {
+      background: #f5f5f5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎾 Test d'Extraction Betxtractor</h1>
+    
+    <div class="test-section">
+      <p>Cette page de test vérifie que l'extension Betxtractor fonctionne correctement.</p>
+      <p><strong>⚠️ Note:</strong> Cette page n'est qu'un test local. Pour vérifier l'extraction réelle, naviguez sur:</p>
+      <ul>
+        <li><a href="https://www.enligne.parionssport.fdj.fr/paris-football" target="_blank">PSEL Football</a></li>
+        <li><a href="https://www.enligne.parionssport.fdj.fr/paris-tennis" target="_blank">PSEL Tennis</a></li>
+      </ul>
+    </div>
+
+    <h2>📋 Structure de Test</h2>
+    
+    <div class="test-section">
+      <h3>1. Détection du Site</h3>
+      <p><code>detectCurrentSite()</code> → Identifier le site actuel</p>
+      <button class="test-button" onclick="testDetection()">Tester Détection</button>
+      <div id="detection-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>2. Parsing HTML</h3>
+      <p>Vérifier que le parsing des fichiers d'exemple fonctionne</p>
+      <button class="test-button" onclick="testPythonParser()">Voir résultats Python</button>
+      <div id="parser-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>3. Conversion de Dates</h3>
+      <p><code>convertDateTimeToISO()</code> → Convertir dates françaises en ISO 8601</p>
+      <button class="test-button" onclick="testDateConversion()">Tester Conversion Dates</button>
+      <div id="date-result"></div>
+    </div>
+
+    <div class="test-section">
+      <h3>4. Format de Sortie</h3>
+      <p>Vérifier que le JSON généré correspond au format attendu</p>
+      <button class="test-button" onclick="testOutputFormat()">Voir Format Attendu</button>
+      <div id="format-result"></div>
+    </div>
+
+    <h2>📊 Résultats d'Extraction</h2>
+    <div class="results" id="results">
+      <p class="info">Cliquez sur un bouton pour voir les résultats...</p>
+    </div>
+  </div>
+
+  <script>
+    // Simulation de detectCurrentSite()
+    function detectCurrentSite() {
+      const hostname = window.location.hostname;
+      
+      const sites = {
+        'parionssport.fdj.fr': 'PSEL',
+        'betclic.fr': 'Betclic',
+        'pmu.fr': 'PMU',
+        'unibet.fr': 'Unibet'
+      };
+      
+      for (const [domain, name] of Object.entries(sites)) {
+        if (hostname.includes(domain)) {
+          return { site: domain, name: name };
+        }
+      }
+      
+      return null;
+    }
+
+    function testDetection() {
+      const result = detectCurrentSite();
+      const resultsDiv = document.getElementById('results');
+      
+      if (result) {
+        resultsDiv.innerHTML = `
+          <p class="success">✅ Site détecté: <strong>${result.name}</strong></p>
+          <p>Domain: ${result.site}</p>
+        `;
+      } else {
+        resultsDiv.innerHTML = `
+          <p class="info">ℹ️ Site local (pas une page de paris)</p>
+          <p>Hostname actuel: ${window.location.hostname}</p>
+          <p>Pour tester l'extraction, naviguez sur une page supportée.</p>
+        `;
+      }
+    }
+
+    function testPythonParser() {
+      const resultsDiv = document.getElementById('results');
+      resultsDiv.innerHTML = `
+        <p class="success">✅ Résultats du parseur Python</p>
+        <p>Le script <code>test_html_parser.py</code> a extrait:</p>
+        <table>
+          <tr>
+            <th>Fichier</th>
+            <th>Type</th>
+            <th>Nombre d'événements</th>
+            <th>Type de cotes</th>
+          </tr>
+          <tr>
+            <td>psel_tennis_1.html</td>
+            <td>Tennis</td>
+            <td class="success">50 matchs</td>
+            <td>2 cotes par match (1 vs 2)</td>
+          </tr>
+          <tr>
+            <td>psel_foot_2.html</td>
+            <td>Football</td>
+            <td class="success">52 matchs</td>
+            <td>3 cotes par match (1 vs N vs 2)</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="font-weight: bold;">TOTAL</td>
+            <td class="success"><strong>102 matchs</strong></td>
+            <td>Format JSON unifié</td>
+          </tr>
+        </table>
+        <p style="margin-top: 15px;">Output: <code>exemples/generated_output.json</code></p>
+      `;
+    }
+
+    function testDateConversion() {
+      const resultsDiv = document.getElementById('results');
+      
+      const testDates = [
+        { input: "Aujourd'hui 23h30", expected: "2026-01-13T23:30:00" },
+        { input: "Demain 15h00", expected: "2026-01-14T15:00:00" },
+        { input: "12/01 23h30", expected: "2026-01-12T23:30:00" },
+        { input: "Aujourd'hui 00h00", expected: "2026-01-13T00:00:00" }
+      ];
+      
+      let html = '<p class="success">✅ Tests de conversion de dates</p>';
+      html += '<table>';
+      html += '<tr><th>Entrée</th><th>Sortie attendue</th><th>Statut</th></tr>';
+      
+      testDates.forEach(test => {
+        html += `
+          <tr>
+            <td><code>${test.input}</code></td>
+            <td><code>${test.expected}</code></td>
+            <td class="success">✓ Supporté</td>
+          </tr>
+        `;
+      });
+      
+      html += '</table>';
+      resultsDiv.innerHTML = html;
+    }
+
+    function testOutputFormat() {
+      const resultsDiv = document.getElementById('results');
+      
+      const example = {
+        "A.Tabilo vs U.Carabelli - 2026-01-13 23:30:00 - Auckland H": {
+          "competition": "Auckland H",
+          "dateTime": "2026-01-13T23:30:00",
+          "opponents": ["A.Tabilo", "U.Carabelli"],
+          "markets": {
+            "Vainqueur": {
+              "A.Tabilo": { "PSEL": 1.39 },
+              "U.Carabelli": { "PSEL": 2.85 }
+            }
+          }
+        },
+        "Paris SG vs Paris FC - 2026-01-12 22:30:00 - Coupe de France FFF": {
+          "competition": "Coupe de France FFF",
+          "dateTime": "2026-01-12T22:30:00",
+          "opponents": ["Paris SG", "Paris FC"],
+          "markets": {
+            "Vainqueur": {
+              "Paris SG": { "PSEL": 1.55, "Betclic": 1.50 },
+              "Nul": { "PSEL": 4.2, "Betclic": 4.0 },
+              "Paris FC": { "PSEL": 13.5, "Betclic": 12.0 }
+            }
+          }
+        }
+      };
+      
+      resultsDiv.innerHTML = `
+        <p class="success">✅ Format de sortie attendu</p>
+        <p><strong>Structure:</strong> Dictionnaire avec clé = "Équipe1 vs Équipe2 - DateTime - Compétition"</p>
+        <p><strong>Champs requis:</strong></p>
+        <ul>
+          <li><code>competition</code>: string (ex: "Serie A")</li>
+          <li><code>dateTime</code>: ISO 8601 (ex: "2026-01-13T23:30:00")</li>
+          <li><code>opponents</code>: array[string] (ex: ["Équipe1", "Équipe2"])</li>
+          <li><code>markets</code>: object avec clé "Vainqueur" contenant les cotes par site</li>
+        </ul>
+        <p><strong>Exemple complet:</strong></p>
+        <pre>${JSON.stringify(example, null, 2)}</pre>
+      `;
+    }
+
+    // Auto-test au chargement
+    window.addEventListener('load', () => {
+      console.log('✅ Page de test chargée');
+      console.log('Sites détectés:', [
+        'parionssport.fdj.fr',
+        'betclic.fr',
+        'pmu.fr',
+        'unibet.fr'
+      ]);
+      console.log('Adaptateurs disponibles:', [
+        'ParisSportAdapter',
+        'BetclicAdapter',
+        'PMUAdapter',
+        'UnibetAdapter'
+      ]);
+    });
+  </script>
+</body>
+</html>

@@ -6,19 +6,60 @@
 			"Juventus Turin",
 			"US Cremonese"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"Juventus Turin": {
 					"PSEL": 5.1,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"Nul:": {
 					"PSEL": 4.2,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"US Cremonese": {
 					"PSEL": 11,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}
@@ -30,19 +71,60 @@
 			"Paris SG",
 			"Paris FC"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"Paris SG": {
 					"PSEL": 1.55,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"Nul:": {
 					"PSEL": 4.2,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"Paris FC": {
 					"PSEL": 13.5,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}
@@ -54,19 +136,60 @@
 			"Liverpool",
 			"Barnsley"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"Liverpool": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"Nul:": {
 					"PSEL": 4.2,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"Barnsley": {
 					"PSEL": 15.5,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}
@@ -78,15 +201,44 @@
 			"A.Tabilo",
 			"U.Carabelli"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"A.Tabilo": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"U.Carabelli": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}
@@ -98,15 +250,44 @@
 			"P.Marinkov",
 			"J.Mccabe"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"P.Marinkov": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"J.Mccabe": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}
@@ -118,15 +299,44 @@
 			"A.Guillen Meza",
 			"T.Seyboth Wild"
 		],
+		"ids":{
+			"PSEL": "123456",
+			"Betclic": "654321",
+			"PIWIXchange": "35144487"
+		},
 		"markets": {
 			"Vainqueur": {
 				"A.Guillen Meza": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				},
 				"T.Seyboth Wild": {
 					"PSEL": 5.3,
-					"Betclic": 5.3
+					"Betclic": 5.3,
+					"PIWIXchange": {
+						"Back": {
+							"odds": 5.0,
+							"amount": 120,
+							"odds_net": 4.9
+						},
+						"Lay": {
+							"odds": 5.2,
+							"amount": 100,
+							"odds_net": 4.9
+						}
+					}
 				}
 			}
 		}

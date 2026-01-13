@@ -32,7 +32,7 @@ API.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     console.log('[Betxtractor BG] Tab updated:', tab.url);
     
     // Vérifier si l'URL correspond aux patterns autorisés
-    const supportedDomains = ['betclic.fr', 'parionssport.fdj.fr', 'pmu.fr', 'unibet.fr'];
+    const supportedDomains = ['betclic.fr', 'parionssport.fdj.fr', 'pmu.fr', 'unibet.fr', 'piwi247.com', 'piwi88.com', 'piwi365.com', 'piwi99.com'];
     const isSupported = supportedDomains.some(domain => tab.url.includes(domain));
     console.log('[Betxtractor BG] URL supportée:', isSupported, tab.url);
   }

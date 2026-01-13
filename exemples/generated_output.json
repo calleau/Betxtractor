@@ -1,0 +1,1250 @@
+{
+	"Paris SG vs Paris FC - 2026-01-13 12:04:44 - Coupe de France FFF": {
+		"competition": "Coupe de France FFF",
+		"dateTime": "2026-01-13T12:04:44",
+		"opponents": [
+			"Paris SG",
+			"Paris FC"
+		],
+		"ids": {
+			"PSEL": "3301134"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Paris SG": {
+					"PSEL": 1.47
+				},
+				"Nul": {
+					"PSEL": 2.65
+				},
+				"Paris FC": {
+					"PSEL": 12.0
+				}
+			}
+		}
+	},
+	"FC Séville vs Celta Vigo - 2026-01-13 12:04:44 - LaLiga": {
+		"competition": "LaLiga",
+		"dateTime": "2026-01-13T12:04:44",
+		"opponents": [
+			"FC Séville",
+			"Celta Vigo"
+		],
+		"ids": {
+			"PSEL": "3272842"
+		},
+		"markets": {
+			"Vainqueur": {
+				"FC Séville": {
+					"PSEL": 4.15
+				},
+				"Nul": {
+					"PSEL": 1.45
+				},
+				"Celta Vigo": {
+					"PSEL": 4.8
+				}
+			}
+		}
+	},
+	"Stuttgart vs Ein.Francfort - 2026-01-13 18:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T18:30:00",
+		"opponents": [
+			"Stuttgart",
+			"Ein.Francfort"
+		],
+		"ids": {
+			"PSEL": "3300308"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Stuttgart": {
+					"PSEL": 1.73
+				},
+				"Nul": {
+					"PSEL": 3.85
+				},
+				"Ein.Francfort": {
+					"PSEL": 4.1
+				}
+			}
+		}
+	},
+	"Mayence vs FC Heidenheim - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Mayence",
+			"FC Heidenheim"
+		],
+		"ids": {
+			"PSEL": "3300313"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Mayence": {
+					"PSEL": 1.58
+				},
+				"Nul": {
+					"PSEL": 3.8
+				},
+				"FC Heidenheim": {
+					"PSEL": 5.4
+				}
+			}
+		}
+	},
+	"Hambourg vs Leverkusen - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Hambourg",
+			"Leverkusen"
+		],
+		"ids": {
+			"PSEL": "3300310"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Hambourg": {
+					"PSEL": 3.35
+				},
+				"Nul": {
+					"PSEL": 3.6
+				},
+				"Leverkusen": {
+					"PSEL": 1.98
+				}
+			}
+		}
+	},
+	"Dortmund vs Werder Brême - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Dortmund",
+			"Werder Brême"
+		],
+		"ids": {
+			"PSEL": "3300309"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Dortmund": {
+					"PSEL": 1.32
+				},
+				"Nul": {
+					"PSEL": 5.4
+				},
+				"Werder Brême": {
+					"PSEL": 7.4
+				}
+			}
+		}
+	},
+	"AS Rome vs Torino - 2026-01-13 21:00:00 - Coupe d'Italie": {
+		"competition": "Coupe d'Italie",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"AS Rome",
+			"Torino"
+		],
+		"ids": {
+			"PSEL": "3285525"
+		},
+		"markets": {
+			"Vainqueur": {
+				"AS Rome": {
+					"PSEL": 1.56
+				},
+				"Nul": {
+					"PSEL": 3.95
+				},
+				"Torino": {
+					"PSEL": 5.8
+				}
+			}
+		}
+	},
+	"Real Sociedad vs Osasuna - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Real Sociedad",
+			"Osasuna"
+		],
+		"ids": {
+			"PSEL": "3305621"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Real Sociedad": {
+					"PSEL": 1.79
+				},
+				"Nul": {
+					"PSEL": 3.3
+				},
+				"Osasuna": {
+					"PSEL": 4.55
+				}
+			}
+		}
+	},
+	"FC Bayeux vs Marseille - 2026-01-13 21:00:00 - Coupe de France FFF": {
+		"competition": "Coupe de France FFF",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"FC Bayeux",
+			"Marseille"
+		],
+		"ids": {
+			"PSEL": "3300758"
+		},
+		"markets": {
+			"Vainqueur": {
+				"FC Bayeux": {
+					"PSEL": 38.0
+				},
+				"Nul": {
+					"PSEL": 13.0
+				},
+				"Marseille": {
+					"PSEL": 1.02
+				}
+			}
+		}
+	},
+	"Newcastle vs Man. City - 2026-01-13 21:00:00 - EFL Cup": {
+		"competition": "EFL Cup",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Newcastle",
+			"Man. City"
+		],
+		"ids": {
+			"PSEL": "3299685"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Newcastle": {
+					"PSEL": 3.05
+				},
+				"Nul": {
+					"PSEL": 3.6
+				},
+				"Man. City": {
+					"PSEL": 2.1
+				}
+			}
+		}
+	},
+	"CD Leonesa vs Ath. Bilbao - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"CD Leonesa",
+			"Ath. Bilbao"
+		],
+		"ids": {
+			"PSEL": "3305640"
+		},
+		"markets": {
+			"Vainqueur": {
+				"CD Leonesa": {
+					"PSEL": 5.4
+				},
+				"Nul": {
+					"PSEL": 3.9
+				},
+				"Ath. Bilbao": {
+					"PSEL": 1.57
+				}
+			}
+		}
+	},
+	"La Corogne vs Atl. Madrid - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"La Corogne",
+			"Atl. Madrid"
+		],
+		"ids": {
+			"PSEL": "3305646"
+		},
+		"markets": {
+			"Vainqueur": {
+				"La Corogne": {
+					"PSEL": 7.1
+				},
+				"Nul": {
+					"PSEL": 4.65
+				},
+				"Atl. Madrid": {
+					"PSEL": 1.38
+				}
+			}
+		}
+	},
+	"Wolfsburg vs St Pauli - 2026-01-13 18:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T18:30:00",
+		"opponents": [
+			"Wolfsburg",
+			"St Pauli"
+		],
+		"ids": {
+			"PSEL": "3300311"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Wolfsburg": {
+					"PSEL": 1.84
+				},
+				"Nul": {
+					"PSEL": 3.6
+				},
+				"St Pauli": {
+					"PSEL": 3.85
+				}
+			}
+		}
+	},
+	"Naples vs Parme - 2026-01-13 18:30:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T18:30:00",
+		"opponents": [
+			"Naples",
+			"Parme"
+		],
+		"ids": {
+			"PSEL": "3305719"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Naples": {
+					"PSEL": 1.27
+				},
+				"Nul": {
+					"PSEL": 5.2
+				},
+				"Parme": {
+					"PSEL": 10.0
+				}
+			}
+		}
+	},
+	"RB Leipzig vs Fribourg - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"RB Leipzig",
+			"Fribourg"
+		],
+		"ids": {
+			"PSEL": "3300316"
+		},
+		"markets": {
+			"Vainqueur": {
+				"RB Leipzig": {
+					"PSEL": 1.68
+				},
+				"Nul": {
+					"PSEL": 4.0
+				},
+				"Fribourg": {
+					"PSEL": 4.25
+				}
+			}
+		}
+	},
+	"Hoffenheim vs M'Gladbach - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Hoffenheim",
+			"M'Gladbach"
+		],
+		"ids": {
+			"PSEL": "3300314"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Hoffenheim": {
+					"PSEL": 1.78
+				},
+				"Nul": {
+					"PSEL": 3.9
+				},
+				"M'Gladbach": {
+					"PSEL": 3.8
+				}
+			}
+		}
+	},
+	"Cologne vs Bayern Munich - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Cologne",
+			"Bayern Munich"
+		],
+		"ids": {
+			"PSEL": "3300312"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Cologne": {
+					"PSEL": 9.0
+				},
+				"Nul": {
+					"PSEL": 6.7
+				},
+				"Bayern Munich": {
+					"PSEL": 1.21
+				}
+			}
+		}
+	},
+	"Inter Milan vs Lecce - 2026-01-13 20:45:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T20:45:00",
+		"opponents": [
+			"Inter Milan",
+			"Lecce"
+		],
+		"ids": {
+			"PSEL": "3305742"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Inter Milan": {
+					"PSEL": 1.11
+				},
+				"Nul": {
+					"PSEL": 7.7
+				},
+				"Lecce": {
+					"PSEL": 20.0
+				}
+			}
+		}
+	},
+	"Betis Séville vs Elche - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Betis Séville",
+			"Elche"
+		],
+		"ids": {
+			"PSEL": "3305620"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Betis Séville": {
+					"PSEL": 1.57
+				},
+				"Nul": {
+					"PSEL": 3.9
+				},
+				"Elche": {
+					"PSEL": 5.1
+				}
+			}
+		}
+	},
+	"Albacete vs Real Madrid - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Albacete",
+			"Real Madrid"
+		],
+		"ids": {
+			"PSEL": "3305623"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Albacete": {
+					"PSEL": 11.0
+				},
+				"Nul": {
+					"PSEL": 6.4
+				},
+				"Real Madrid": {
+					"PSEL": 1.19
+				}
+			}
+		}
+	},
+	"Alaves vs Rayo Vallecano - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Alaves",
+			"Rayo Vallecano"
+		],
+		"ids": {
+			"PSEL": "3305618"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Alaves": {
+					"PSEL": 2.45
+				},
+				"Nul": {
+					"PSEL": 2.9
+				},
+				"Rayo Vallecano": {
+					"PSEL": 2.9
+				}
+			}
+		}
+	},
+	"Chelsea vs Arsenal - 2026-01-13 21:00:00 - EFL Cup": {
+		"competition": "EFL Cup",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Chelsea",
+			"Arsenal"
+		],
+		"ids": {
+			"PSEL": "3301116"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Chelsea": {
+					"PSEL": 3.05
+				},
+				"Nul": {
+					"PSEL": 3.3
+				},
+				"Arsenal": {
+					"PSEL": 2.1
+				}
+			}
+		}
+	},
+	"FC Porto vs Benfica - 2026-01-13 21:45:00 - Cpe Portugal": {
+		"competition": "Cpe Portugal",
+		"dateTime": "2026-01-13T21:45:00",
+		"opponents": [
+			"FC Porto",
+			"Benfica"
+		],
+		"ids": {
+			"PSEL": "3301183"
+		},
+		"markets": {
+			"Vainqueur": {
+				"FC Porto": {
+					"PSEL": 2.05
+				},
+				"Nul": {
+					"PSEL": 3.1
+				},
+				"Benfica": {
+					"PSEL": 3.2
+				}
+			}
+		}
+	},
+	"Hellas Vérone vs Bologne - 2026-01-13 18:30:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T18:30:00",
+		"opponents": [
+			"Hellas Vérone",
+			"Bologne"
+		],
+		"ids": {
+			"PSEL": "3305740"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Hellas Vérone": {
+					"PSEL": 3.55
+				},
+				"Nul": {
+					"PSEL": 3.2
+				},
+				"Bologne": {
+					"PSEL": 2.0
+				}
+			}
+		}
+	},
+	"Augsburg vs Union Berlin - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Augsburg",
+			"Union Berlin"
+		],
+		"ids": {
+			"PSEL": "3300315"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Augsburg": {
+					"PSEL": 2.4
+				},
+				"Nul": {
+					"PSEL": 3.1
+				},
+				"Union Berlin": {
+					"PSEL": 2.8
+				}
+			}
+		}
+	},
+	"Como 1907 vs Milan AC - 2026-01-13 20:45:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T20:45:00",
+		"opponents": [
+			"Como 1907",
+			"Milan AC"
+		],
+		"ids": {
+			"PSEL": "3305741"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Como 1907": {
+					"PSEL": 2.85
+				},
+				"Nul": {
+					"PSEL": 3.2
+				},
+				"Milan AC": {
+					"PSEL": 2.35
+				}
+			}
+		}
+	},
+	"Burgos CF vs CF Valence - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Burgos CF",
+			"CF Valence"
+		],
+		"ids": {
+			"PSEL": "3305619"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Burgos CF": {
+					"PSEL": 3.95
+				},
+				"Nul": {
+					"PSEL": 3.2
+				},
+				"CF Valence": {
+					"PSEL": 1.9
+				}
+			}
+		}
+	},
+	"Santander vs FC Barcelone - 2026-01-13 21:00:00 - Copa del Rey": {
+		"competition": "Copa del Rey",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Santander",
+			"FC Barcelone"
+		],
+		"ids": {
+			"PSEL": "3305645"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Santander": {
+					"PSEL": 9.0
+				},
+				"Nul": {
+					"PSEL": 6.2
+				},
+				"FC Barcelone": {
+					"PSEL": 1.22
+				}
+			}
+		}
+	},
+	"Monaco vs Lorient - 2026-01-13 19:00:00 - Ligue 1 McDonalds": {
+		"competition": "Ligue 1 McDonalds",
+		"dateTime": "2026-01-13T19:00:00",
+		"opponents": [
+			"Monaco",
+			"Lorient"
+		],
+		"ids": {
+			"PSEL": "3300297"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Monaco": {
+					"PSEL": 1.54
+				},
+				"Nul": {
+					"PSEL": 4.3
+				},
+				"Lorient": {
+					"PSEL": 5.0
+				}
+			}
+		}
+	},
+	"Boulogne vs Montpellier - 2026-01-13 20:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T20:00:00",
+		"opponents": [
+			"Boulogne",
+			"Montpellier"
+		],
+		"ids": {
+			"PSEL": "3304178"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Boulogne": {
+					"PSEL": 3.05
+				},
+				"Nul": {
+					"PSEL": 3.15
+				},
+				"Montpellier": {
+					"PSEL": 2.2
+				}
+			}
+		}
+	},
+	"Annecy FC vs Amiens - 2026-01-13 20:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T20:00:00",
+		"opponents": [
+			"Annecy FC",
+			"Amiens"
+		],
+		"ids": {
+			"PSEL": "3304173"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Annecy FC": {
+					"PSEL": 1.61
+				},
+				"Nul": {
+					"PSEL": 3.5
+				},
+				"Amiens": {
+					"PSEL": 5.1
+				}
+			}
+		}
+	},
+	"Laval vs Bastia - 2026-01-13 20:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T20:00:00",
+		"opponents": [
+			"Laval",
+			"Bastia"
+		],
+		"ids": {
+			"PSEL": "3304174"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Laval": {
+					"PSEL": 2.3
+				},
+				"Nul": {
+					"PSEL": 2.9
+				},
+				"Bastia": {
+					"PSEL": 3.1
+				}
+			}
+		}
+	},
+	"Dunkerque vs Pau - 2026-01-13 20:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T20:00:00",
+		"opponents": [
+			"Dunkerque",
+			"Pau"
+		],
+		"ids": {
+			"PSEL": "3304175"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Dunkerque": {
+					"PSEL": 1.8
+				},
+				"Nul": {
+					"PSEL": 3.5
+				},
+				"Pau": {
+					"PSEL": 3.9
+				}
+			}
+		}
+	},
+	"Rodez vs Le Mans - 2026-01-13 20:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T20:00:00",
+		"opponents": [
+			"Rodez",
+			"Le Mans"
+		],
+		"ids": {
+			"PSEL": "3304176"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Rodez": {
+					"PSEL": 2.7
+				},
+				"Nul": {
+					"PSEL": 3.2
+				},
+				"Le Mans": {
+					"PSEL": 2.4
+				}
+			}
+		}
+	},
+	"Werder Brême vs Ein.Francfort - 2026-01-13 20:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T20:30:00",
+		"opponents": [
+			"Werder Brême",
+			"Ein.Francfort"
+		],
+		"ids": {
+			"PSEL": "3304227"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Werder Brême": {
+					"PSEL": 2.4
+				},
+				"Nul": {
+					"PSEL": 3.55
+				},
+				"Ein.Francfort": {
+					"PSEL": 2.5
+				}
+			}
+		}
+	},
+	"AC Pisa 1909 vs Atalanta - 2026-01-13 20:45:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T20:45:00",
+		"opponents": [
+			"AC Pisa 1909",
+			"Atalanta"
+		],
+		"ids": {
+			"PSEL": "3305851"
+		},
+		"markets": {
+			"Vainqueur": {
+				"AC Pisa 1909": {
+					"PSEL": 5.5
+				},
+				"Nul": {
+					"PSEL": 3.75
+				},
+				"Atalanta": {
+					"PSEL": 1.55
+				}
+			}
+		}
+	},
+	"Paris SG vs Lille - 2026-01-13 21:00:00 - Ligue 1 McDonalds": {
+		"competition": "Ligue 1 McDonalds",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Paris SG",
+			"Lille"
+		],
+		"ids": {
+			"PSEL": "3300301"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Paris SG": {
+					"PSEL": 1.38
+				},
+				"Nul": {
+					"PSEL": 5.0
+				},
+				"Lille": {
+					"PSEL": 6.4
+				}
+			}
+		}
+	},
+	"Espanyol vs Gérone - 2026-01-13 21:00:00 - LaLiga": {
+		"competition": "LaLiga",
+		"dateTime": "2026-01-13T21:00:00",
+		"opponents": [
+			"Espanyol",
+			"Gérone"
+		],
+		"ids": {
+			"PSEL": "3304052"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Espanyol": {
+					"PSEL": 1.81
+				},
+				"Nul": {
+					"PSEL": 3.45
+				},
+				"Gérone": {
+					"PSEL": 4.0
+				}
+			}
+		}
+	},
+	"Sporting vs Casa Pia - 2026-01-13 21:15:00 - Liga Portugal": {
+		"competition": "Liga Portugal",
+		"dateTime": "2026-01-13T21:15:00",
+		"opponents": [
+			"Sporting",
+			"Casa Pia"
+		],
+		"ids": {
+			"PSEL": "3304246"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Sporting": {
+					"PSEL": 1.11
+				},
+				"Nul": {
+					"PSEL": 7.3
+				},
+				"Casa Pia": {
+					"PSEL": 16.0
+				}
+			}
+		}
+	},
+	"Man. United vs Man. City - 2026-01-13 13:30:00 - Premier League": {
+		"competition": "Premier League",
+		"dateTime": "2026-01-13T13:30:00",
+		"opponents": [
+			"Man. United",
+			"Man. City"
+		],
+		"ids": {
+			"PSEL": "3303918"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Man. United": {
+					"PSEL": 3.6
+				},
+				"Nul": {
+					"PSEL": 3.9
+				},
+				"Man. City": {
+					"PSEL": 1.82
+				}
+			}
+		}
+	},
+	"Troyes vs Reims - 2026-01-13 14:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T14:00:00",
+		"opponents": [
+			"Troyes",
+			"Reims"
+		],
+		"ids": {
+			"PSEL": "3304177"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Troyes": {
+					"PSEL": 2.15
+				},
+				"Nul": {
+					"PSEL": 3.15
+				},
+				"Reims": {
+					"PSEL": 3.2
+				}
+			}
+		}
+	},
+	"Grenoble vs Red Star - 2026-01-13 14:00:00 - Ligue 2 BKT": {
+		"competition": "Ligue 2 BKT",
+		"dateTime": "2026-01-13T14:00:00",
+		"opponents": [
+			"Grenoble",
+			"Red Star"
+		],
+		"ids": {
+			"PSEL": "3304172"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Grenoble": {
+					"PSEL": 2.55
+				},
+				"Nul": {
+					"PSEL": 3.0
+				},
+				"Red Star": {
+					"PSEL": 2.65
+				}
+			}
+		}
+	},
+	"Real Madrid vs Levante - 2026-01-13 14:00:00 - LaLiga": {
+		"competition": "LaLiga",
+		"dateTime": "2026-01-13T14:00:00",
+		"opponents": [
+			"Real Madrid",
+			"Levante"
+		],
+		"ids": {
+			"PSEL": "3304054"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Real Madrid": {
+					"PSEL": 1.11
+				},
+				"Nul": {
+					"PSEL": 8.0
+				},
+				"Levante": {
+					"PSEL": 15.0
+				}
+			}
+		}
+	},
+	"Udinese vs Inter Milan - 2026-01-13 15:00:00 - Serie A": {
+		"competition": "Serie A",
+		"dateTime": "2026-01-13T15:00:00",
+		"opponents": [
+			"Udinese",
+			"Inter Milan"
+		],
+		"ids": {
+			"PSEL": "3305869"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Udinese": {
+					"PSEL": 6.8
+				},
+				"Nul": {
+					"PSEL": 4.55
+				},
+				"Inter Milan": {
+					"PSEL": 1.38
+				}
+			}
+		}
+	},
+	"Hambourg vs M'Gladbach - 2026-01-13 15:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T15:30:00",
+		"opponents": [
+			"Hambourg",
+			"M'Gladbach"
+		],
+		"ids": {
+			"PSEL": "3306545"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Hambourg": {
+					"PSEL": 2.3
+				},
+				"Nul": {
+					"PSEL": 3.4
+				},
+				"M'Gladbach": {
+					"PSEL": 2.75
+				}
+			}
+		}
+	},
+	"Hoffenheim vs Leverkusen - 2026-01-13 15:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T15:30:00",
+		"opponents": [
+			"Hoffenheim",
+			"Leverkusen"
+		],
+		"ids": {
+			"PSEL": "3306546"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Hoffenheim": {
+					"PSEL": 2.35
+				},
+				"Nul": {
+					"PSEL": 3.7
+				},
+				"Leverkusen": {
+					"PSEL": 2.5
+				}
+			}
+		}
+	},
+	"Cologne vs Mayence - 2026-01-13 15:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T15:30:00",
+		"opponents": [
+			"Cologne",
+			"Mayence"
+		],
+		"ids": {
+			"PSEL": "3306764"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Cologne": {
+					"PSEL": 2.1
+				},
+				"Nul": {
+					"PSEL": 3.5
+				},
+				"Mayence": {
+					"PSEL": 3.0
+				}
+			}
+		}
+	},
+	"Dortmund vs St Pauli - 2026-01-13 15:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T15:30:00",
+		"opponents": [
+			"Dortmund",
+			"St Pauli"
+		],
+		"ids": {
+			"PSEL": "3304226"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Dortmund": {
+					"PSEL": 1.3
+				},
+				"Nul": {
+					"PSEL": 5.0
+				},
+				"St Pauli": {
+					"PSEL": 8.2
+				}
+			}
+		}
+	},
+	"Wolfsburg vs FC Heidenheim - 2026-01-13 15:30:00 - Bundesliga 1": {
+		"competition": "Bundesliga 1",
+		"dateTime": "2026-01-13T15:30:00",
+		"opponents": [
+			"Wolfsburg",
+			"FC Heidenheim"
+		],
+		"ids": {
+			"PSEL": "3304228"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Wolfsburg": {
+					"PSEL": 1.63
+				},
+				"Nul": {
+					"PSEL": 4.0
+				},
+				"FC Heidenheim": {
+					"PSEL": 4.35
+				}
+			}
+		}
+	},
+	"Liverpool vs Burnley - 2026-01-13 16:00:00 - Premier League": {
+		"competition": "Premier League",
+		"dateTime": "2026-01-13T16:00:00",
+		"opponents": [
+			"Liverpool",
+			"Burnley"
+		],
+		"ids": {
+			"PSEL": "3303920"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Liverpool": {
+					"PSEL": 1.18
+				},
+				"Nul": {
+					"PSEL": 6.6
+				},
+				"Burnley": {
+					"PSEL": 12.0
+				}
+			}
+		}
+	},
+	"Chelsea vs Brentford - 2026-01-13 16:00:00 - Premier League": {
+		"competition": "Premier League",
+		"dateTime": "2026-01-13T16:00:00",
+		"opponents": [
+			"Chelsea",
+			"Brentford"
+		],
+		"ids": {
+			"PSEL": "3303914"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Chelsea": {
+					"PSEL": 1.64
+				},
+				"Nul": {
+					"PSEL": 3.9
+				},
+				"Brentford": {
+					"PSEL": 4.6
+				}
+			}
+		}
+	},
+	"Leeds Utd vs Fulham - 2026-01-13 16:00:00 - Premier League": {
+		"competition": "Premier League",
+		"dateTime": "2026-01-13T16:00:00",
+		"opponents": [
+			"Leeds Utd",
+			"Fulham"
+		],
+		"ids": {
+			"PSEL": "3303917"
+		},
+		"markets": {
+			"Vainqueur": {
+				"Leeds Utd": {
+					"PSEL": 2.2
+				},
+				"Nul": {
+					"PSEL": 3.15
+				},
+				"Fulham": {
+					"PSEL": 3.25
+				}
+			}
+		}
+	}
+}

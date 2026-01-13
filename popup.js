@@ -42,7 +42,7 @@ document.getElementById('extractBtn').addEventListener('click', async () => {
     addLog(`✅ Statut: ${tab.status}`);
     
     // Vérifier que la page est supportée
-    const supportedDomains = ['betclic.fr', 'parionssport.fdj.fr', 'pmu.fr', 'unibet.fr'];
+    const supportedDomains = ['betclic.fr', 'parionssport.fdj.fr', 'pmu.fr', 'unibet.fr', 'piwi247.com', 'piwi88.com', 'piwi365.com', 'piwi99.com'];
     const isSupported = supportedDomains.some(domain => tab.url.includes(domain));
     addLog(`🔍 Page supportée: ${isSupported}`);
     
